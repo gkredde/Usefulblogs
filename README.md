@@ -10,3 +10,6 @@ https://domainwheel.com/domain-vs-subdomain/
 
 Git Cheat sheet:  
 https://www.geeksforgeeks.org/git-cheat-sheet/  
+
+SQL Keywords:  
+https://www.educba.com/sql-keywords/ 
